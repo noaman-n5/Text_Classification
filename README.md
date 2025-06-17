@@ -58,9 +58,12 @@ Trained for 16 epochs
 📊 Evaluation
 Calculates accuracy per trait
 Calculate Evaluation Metric
-Prints test and full dataset accuracy
+Prints train , test and full dataset accuracy
 Uses threshold of 0.5 for classification
 
+-train acheive 97% accurcy
+-test acheive 83% accurcy
+-full acheive 97% accurcy
 
 ##🧠 Personality Analysis from User Input
 The final section allows users to input a sentence.
